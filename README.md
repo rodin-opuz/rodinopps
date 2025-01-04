@@ -4,6 +4,6 @@
 
 Computer Science student. Always learning!
 
-C
+C coding language
 
 Python
