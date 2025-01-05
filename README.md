@@ -6,4 +6,4 @@ Computer Science student. Always learning!
 
 C coding language
 
-Python
+Python coding language
