@@ -2,7 +2,7 @@
 
 01110010 01101111 01110010 0110111
 
-Computer Science student. Always learning!
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50">
 
