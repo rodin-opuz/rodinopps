@@ -2,10 +2,4 @@
 
 01110010 01101111 01110010 0110111
 
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/C_Programming_Language.svg" alt="C Logo" width="100">
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)
