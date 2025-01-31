@@ -4,6 +4,5 @@
 
 Computer Science student. Always learning!
 
-C coding language
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
-Python coding language
