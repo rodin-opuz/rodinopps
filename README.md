@@ -6,4 +6,5 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/C_Programming_Language.svg" alt="C Logo" width="50">
 
