@@ -2,4 +2,4 @@
 
 01110010 01101111 01110010 0110111
 
-[![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,html)](https://skillicons.dev)
