@@ -2,4 +2,4 @@
 
 [![Codewars](https://www.codewars.com/users/rodin-opuz/badges/small)](https://www.codewars.com/users/rodin-opuz)
 
-![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js)
+![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js,java)
